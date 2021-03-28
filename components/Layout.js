@@ -18,6 +18,8 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+        <meta name="description" content="Onuralp Karataş, Front End Developer" />
         <title>Onuralp Karataş - Front End Developer</title>
       </Head>
       <Button
