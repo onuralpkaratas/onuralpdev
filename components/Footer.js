@@ -50,7 +50,6 @@ const Footer = () => {
           <Spotify boxSize="24px" />
         </Link>
       </Flex>
-      <Flex></Flex>
     </Box>
   );
 };
